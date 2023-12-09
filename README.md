@@ -1,17 +1,13 @@
+## <picture><img src = "https://github.com/diana9519/diana9519/blob/main/tarjeta.png" width = 900px></picture>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
 
+
+---
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-- **Name:** Diana Pinchao
-- **Location:** Ambato, Ecuador
-- **Email:** dianajazminpf@gmail.com
-- **Linkedin:** www.linkedin.com/in/diana-pinchao
----
-
-As a software developer, I focus on interface design and web development, areas that inspire and motivate me daily. I possess versatile skills in various programming languages and have collaborated on projects that have expanded my knowledge and experience in this field. I enjoy working in multidisciplinary teams, contributing my abilities to materialize creative and efficient ideas. My interest in continuous learning and adapting to the latest technological trends drives me to seek new challenges in the dynamic world of software development
+Como desarrolladora de software, me concentro en el diseño de interfaces y el desarrollo web, áreas que me inspiran y motivan a diario. Poseo habilidades versátiles en varios lenguajes de programación y he colaborado en proyectos que han ampliado mi conocimiento y experiencia en este campo. Disfruto trabajando en equipos multidisciplinarios, aportando mis capacidades para materializar ideas creativas y eficientes. Mi interés por seguir aprendiendo y adaptándome a las últimas tendencias tecnológicas me impulsa a buscar nuevos retos en el dinámico mundo del desarrollo de software.
 
 ---
-### Languages and Tools 🛠 
+### Lenguajes y herramientas de programación 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -28,6 +24,6 @@ As a software developer, I focus on interface design and web development, areas 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-
+- **Linkedin:** www.linkedin.com/in/diana-pinchao
 
 
