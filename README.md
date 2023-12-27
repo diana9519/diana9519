@@ -28,5 +28,5 @@ Como desarrolladora de software, me concentro en el diseño de interfaces y el d
 
 ### 🖌 Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=shadow-purple)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diana9519=shadow-purple)](https://git.io/streak-stats)
 
