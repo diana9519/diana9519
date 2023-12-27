@@ -28,9 +28,9 @@ Como desarrolladora de software, me concentro en el diseño de interfaces y el d
 
 ### 📈	📊 Estadísticas
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diana9519&theme=vue&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diana9519&theme=ambient-gradient&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=diana9519&show_icons=true&theme=vue&locale=es)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=diana9519&show_icons=true&theme=ambient-gradient&locale=es)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=diana9519&layout=compact&theme=vue&hide_progress=true&locale=es)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=diana9519&layout=compact&theme=ambient-gradient&hide_progress=true&locale=es)
 
