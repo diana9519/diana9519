@@ -26,6 +26,6 @@ Como desarrolladora de software, me concentro en el diseño de interfaces y el d
 ---
 - **Linkedin:** www.linkedin.com/in/diana-pinchao
 
-### 🖌 Stats
+### 📈	📊 Estadísticas
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diana9519&theme=ambient-gradient&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
