@@ -30,7 +30,9 @@ Como desarrolladora de software, me concentro en el diseño de interfaces y el d
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diana9519&theme=ambient-gradient&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=diana9519&show_icons=true&theme=ambient-gradient&locale=es)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=diana9519&show_icons=true&theme=ambient-gradient&locale=es" alt="Estadísticas de GitHub" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diana9519&layout=compact&theme=ambient-gradient&hide_progress=true&locale=es" alt="Lenguajes más usados" width="49%">
+</div>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=diana9519&layout=compact&theme=ambient-gradient&hide_progress=true&locale=es)
 
