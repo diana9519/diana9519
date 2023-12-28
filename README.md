@@ -24,15 +24,27 @@ Como desarrolladora de software, me concentro en el diseño de interfaces y el d
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-- **Linkedin:** www.linkedin.com/in/diana-pinchao
 
 ### 📈	📊 Estadísticas
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diana9519&theme=ambient-gradient&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=diana9519&theme=ambient-gradient&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"  />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/diana9519">
+    <img src="https://github-readme-stats.vercel.app/api?username=diana9519&show_icons=true&theme=ambient-gradient&locale=es" alt="Estadísticas de GitHub" width="400">
+  </a>
+  <a href="https://github.com/diana9519">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diana9519&layout=compact&theme=ambient-gradient&hide_progress=true&locale=es" alt="Lenguajes más usados" width="365">
+  </a>
+</p>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=diana9519&show_icons=true&theme=ambient-gradient&locale=es" alt="Estadísticas de GitHub" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diana9519&layout=compact&theme=ambient-gradient&hide_progress=true&locale=es" alt="Lenguajes más usados" width="49%">
-</div>
+---
+- **Linkedin:** www.linkedin.com/in/diana-pinchao
+
+
+
 
 
