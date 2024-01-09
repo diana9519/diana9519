@@ -43,6 +43,7 @@ Como desarrolladora de software, me concentro en el diseño de interfaces y el d
 
 ---
 - **Linkedin:** www.linkedin.com/in/diana-pinchao
+- **Portafolio:** https://dianapinchao.000webhostapp.com/
 
 
 
